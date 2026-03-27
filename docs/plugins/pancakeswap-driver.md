@@ -3,7 +3,7 @@
 AI-powered assistance for planning PancakeSwap swaps and liquidity positions — without writing code.
 
 ## Metadata
-
+ii
 | Field        | Value                                                                                                   |
 | ------------ | ------------------------------------------------------------------------------------------------------- |
 | **Name**     | `pancakeswap-driver`                                                                                    |
